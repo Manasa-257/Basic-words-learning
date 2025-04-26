@@ -1,0 +1,132 @@
+h1{
+text-align: center;
+font-size: 5rem;
+font-style: oblique;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 5px 0  rgb(255, 255, 255);
+
+}
+html{
+    background-color:antiquewhite
+}
+.set{
+    margin: 60px;
+}
+.alphabet{
+    height: 200px;
+    width:250px ;
+    border-radius: 5px;
+    font-size: 4rem;
+    text-align: start;
+    line-height: 5;
+    font-weight: 900;
+    color: #da8040;
+    text-shadow: 3px 0  rgb(255, 255, 255);
+    margin:2px;
+
+}
+.A{
+    background-image:url("images.project/apple.jpg") ;
+}
+.B{
+    background-image:url("images.project/ball.jpg") ;
+
+}
+.C{
+    background-image:url("images.project/cat.jpg") ;
+
+}
+.D{
+    background-image:url("images.project/dog.jpg") ;
+    background-size: cover;
+}
+.E{
+    background-image:url("images.project/elephant.jpg") ;
+    background-size: cover;
+}
+.F{
+    background-image:url("images.project/fish.jpg") ;
+    
+}
+.G{
+    background-image:url("images.project/gun.jpg") ;
+    
+}
+.H{
+    background-image:url("images.project/hat.jpg") ;
+    background-size: cover;
+}
+.I{
+    background-image:url("images.project/icecream.jpg") ;
+    background-size: cover;
+}
+.J{
+    background-image:url("images.project/jeep.jpg") ;
+    background-size: cover;
+}
+.K{
+    background-image:url("images.project/kite.jpg") ;
+    background-size: cover;
+}
+.L{
+    background-image:url("images.project/lamp.jpg") ;
+    background-size: cover;
+}
+.M{
+    background-image:url("images.project/monkey.jpg") ;
+
+}
+.N{
+    background-image:url("images.project/Nest.jpg") ;
+    background-size: cover;
+}
+.O{
+    background-image:url("images.project/owl.jpg") ;
+    background-size: cover;
+}
+.P{
+    background-image:url("images.project/parrot.jpg") ;
+    background-size: cover;
+}
+.Q{
+    background-image:url("images.project/queeen.jpg") ;
+    background-size: cover;
+}
+.R{
+    background-image:url("images.project/ring.jpg") ;
+    background-size: cover;
+}
+.S{
+    background-image:url("images.project/sparrow.jpg") ;
+
+}
+
+.T{
+    background-image:url("images.project/tiger.jpg") ;
+    background-size: cover;
+}
+.U{
+    background-image:url("images.project/umbrella.jpg") ;
+    background-size: cover;
+}
+.V{
+    background-image:url("images.project/violin.jpg") ;
+    background-size: cover;
+}
+.W{
+    background-image:url("images.project/watch.jpg") ;
+    background-size: cover;
+}
+.X{
+    background-image:url("images.project/xmas-tree.jpg") ;
+    background-size: cover;
+}
+.Y{
+    background-image:url("images.project/Yak.png") ;
+    background-size: cover;
+}
+.Z{
+    background-image:url("images.project/zebra.jpg") ;
+    background-size: cover;
+}
+
